@@ -1,2 +1,2 @@
-# WebHost -  Redirection
+# WebHosting -  Redirection
 WebHost
